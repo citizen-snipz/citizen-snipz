@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Shara</h1>
 <h3 align="center">A full stack software engineer from Las Vegas.</h3>
 
-- 👩 My pronouns are she/her/hers
+- 👩  My pronouns are she/her/hers
 
-- ⚙️ I’m currently working on **a web app to help politics become more accessible to every day people**
+- ⚙️  I’m currently working on **a web app to help politics become more accessible to every day people**
 
-- 💡 I’m currently learning **JavaScript, Node, React**
+- 💡  I’m currently learning **JavaScript, Node, React**
 
-- 🤝🏽 I’m looking to collaborate on **projects that provide meaningful social impact**
+- 🤝🏽  I’m looking to collaborate on **projects that provide meaningful social impact**
 
-- ℹ️ I’m looking for help with **MERN stack applications and interesting design techniques**
+- ℹ️  I’m looking for help with **MERN stack applications and interesting design techniques**
 
-- 💻 All of my projects are available at [https://sharacrosslin.netlify.app/](https://sharacrosslin.netlify.app/)
+- 💻  All of my projects are available at [https://sharacrosslin.netlify.app/](https://sharacrosslin.netlify.app/)
 
-- 💬 Ask me about **my learning journey or my experience as an educator**
+- 💬  Ask me about **my learning journey or my experience as an educator**
 
-- 📫 How to reach me **sharacrosslin@gmail.com**
+- 📫  How to reach me **sharacrosslin@gmail.com**
 
-- 📄 Know about my experiences [https://sharacrosslin.netlify.app/Shara-Crosslin-Resume-2021.pdf](https://sharacrosslin.netlify.app/Shara-Crosslin-Resume-2021.pdf)
+- 📄  Know about my experiences [https://sharacrosslin.netlify.app/Shara-Crosslin-Resume-2021.pdf](https://sharacrosslin.netlify.app/Shara-Crosslin-Resume-2021.pdf)
 
 - ⚡ Fun fact **I love learning about other cultures through traveling, cooking, media, and language learning. Estoy aprendiendo español ahora mismo!**
 
