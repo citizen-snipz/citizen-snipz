@@ -3,7 +3,7 @@
 
 - 👩  My pronouns are she/her/hers
 
-- ⚙️  I’m currently working on **a web app to help politics become more accessible to every day people**
+- ⚙️  I’m currently working on **a React app to help high school students excel at Varsity Quiz!**
 
 - 💡  I’m currently learning **JavaScript, Node, React**
 
